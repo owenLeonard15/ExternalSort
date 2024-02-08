@@ -12,7 +12,4 @@ Each of these steps is defined as a function within the [external_sort.py](src/e
 
 Unit tests for this program are included in [test_external_sort.py](src/test/test_external_sort.py) and can be run via `pytest`
 
-Finally, I've included additional notes, sources used, and explanations regarding additional strategies in the [notes.txt](notes.txt) file.  
-
-
  I've also kept my first attempted solution in [v1_external_sort.py](src/v1_external_sort.py). This solution is not effective for all M, N but was helpful in developing my final solution.
