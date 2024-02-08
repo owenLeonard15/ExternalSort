@@ -1,0 +1,7 @@
+-i https://pypi.org/simple
+exceptiongroup==1.1.2 ; python_version < '3.11'
+iniconfig==2.0.0 ; python_version >= '3.7'
+packaging==23.1 ; python_version >= '3.7'
+pluggy==1.2.0 ; python_version >= '3.7'
+pytest==7.4.0
+tomli==2.0.1 ; python_version < '3.11'
